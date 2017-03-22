@@ -40,6 +40,7 @@ for weights in ['uniform', 'distance']:
     print(clf.score(X_teste,Y_teste))
 
 '''
+
     # Plot the decision boundary. For that, we will assign a color to each
     # point in the mesh [x_min, x_max]x[y_min, y_max].
     x_min, x_max = X[:, 0].min() - 1, X[:, 0].max() + 1
