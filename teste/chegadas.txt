@@ -1,0 +1,118 @@
+G3 2161;Gol;(FLN) Florianopolis;9:05 AM;En Route;
+JJ 3685;TAM Linhas Aereas;(GIG) Rio De Janeiro;8:50 AM;Landed;On-time
+AM 7825;Aeromexico;(GIG) Rio De Janeiro;8:50 AM;Landed;On-time
+CA 7124;Air China;(GIG) Rio De Janeiro;8:50 AM;Landed;On-time
+LA 6474;LAN Airlines;(GIG) Rio De Janeiro;8:50 AM;Landed;On-time
+DL 471;Delta Air Lines;(JFK) New York;10:39 AM;En Route;Delayed
+G3 8007;Gol;(JFK) New York;10:39 AM;En Route;Delayed
+AD 2411;Azul;(CNF) Belo Horizonte;9:15 AM;En Route;
+G3 1381;Gol;(IGU) Iguassu Falls;9:15 AM;En Route;
+AD 5011;Azul;(POA) Porto Alegre;9:20 AM;En Route;
+O6 6365;Avianca Brazil;(MCZ) Maceio;9:20 AM;Scheduled;
+JJ 9623;TAM Linhas Aereas;(MCO) Orlando;9:10 AM;En Route;On-time
+G3 7451;Gol;(EZE) Buenos Aires;9:30 AM;En Route;
+AR 7702;Aerolineas Argentinas;(EZE) Buenos Aires;9:30 AM;En Route;
+KL 9320;KLM;(EZE) Buenos Aires;9:30 AM;En Route;
+AD 2403;Azul;(SDU) Rio De Janeiro;9:35 AM;En Route;
+G3 1703;Gol;(SDU) Rio De Janeiro;9:35 AM;En Route;
+G3 1873;Gol;(CGB) Cuiaba;9:35 AM;En Route;
+KL 9273;KLM;(CGB) Cuiaba;9:35 AM;En Route;
+JJ 3848;TAM Linhas Aereas;(POA) Porto Alegre;9:30 AM;En Route;On-time
+LA 8057;LAN Airlines;(POA) Porto Alegre;9:30 AM;En Route;On-time
+G3 1981;Gol;(VIX) Vitoria;9:45 AM;En Route;
+DL 53;Delta Air Lines;(DTW) Detroit;11:08 AM;En Route;Delayed
+G3 8005;Gol;(DTW) Detroit;11:08 AM;En Route;Delayed
+AD 6956;Azul;(CWB) Curitiba;9:50 AM;En Route;
+G3 1651;Gol;(MAO) Manaus;9:55 AM;En Route;
+AZ 5344;Alitalia;(MAO) Manaus;9:55 AM;En Route;
+G3 7727;Gol;(MVD) Montevideo;9:55 AM;Scheduled;
+G3 1683;Gol;(BSB) Brasilia;10:00 AM;En Route;
+JJ 3554;TAM Linhas Aereas;(CWB) Curitiba;10:15 AM;En Route;Delayed
+LA 8439;LAN Airlines;(CWB) Curitiba;10:15 AM;En Route;Delayed
+CA 7132;Air China;(CWB) Curitiba;10:15 AM;En Route;Delayed
+AD 4961;Azul;(GYN) Goiania;10:00 AM;En Route;
+O6 6153;Avianca Brazil;(GIG) Rio De Janeiro;10:00 AM;En Route;
+TA 4399;TACA;(GIG) Rio De Janeiro;10:00 AM;En Route;
+G3 1283;Gol;(REC) Recife;10:05 AM;Scheduled;On-time
+AZ 5583;Alitalia;(REC) Recife;10:05 AM;Scheduled;On-time
+AR 7625;Aerolineas Argentinas;(REC) Recife;10:05 AM;Scheduled;On-time
+JJ 3503;TAM Linhas Aereas;(REC) Recife;10:00 AM;En Route;On-time
+LA 8099;LAN Airlines;(REC) Recife;10:00 AM;En Route;On-time
+G3 1759;Gol;(SSA) Salvador;10:15 AM;En Route;
+AZ 5334;Alitalia;(SSA) Salvador;10:15 AM;En Route;
+AR 7601;Aerolineas Argentinas;(SSA) Salvador;10:15 AM;En Route;
+JJ 8031;TAM Linhas Aereas;(MVD) Montevideo;9:35 AM;En Route;On-time
+LA 6012;LAN Airlines;(MVD) Montevideo;9:35 AM;En Route;On-time
+JJ 3387;TAM Linhas Aereas;(BEL) Belem;10:31 AM;En Route;On-time
+LA 8514;LAN Airlines;(BEL) Belem;10:31 AM;En Route;On-time
+P3 2267;Passaredo;(RAO) Ribeirao Preto;10:25 AM;Scheduled;
+AA 963;American Airlines;(DFW) Dallas;10:14 AM;En Route;On-time
+JL 7204;JAL;(DFW) Dallas;10:14 AM;En Route;On-time
+JJ 8409;TAM Linhas Aereas;(DFW) Dallas;10:14 AM;En Route;On-time
+US 963;US Airways;(DFW) Dallas;10:14 AM;En Route;On-time
+AD 2861;Azul;(VIX) Vitoria;10:35 AM;En Route;
+LA 4540;LAN Airlines;(EZE) Buenos Aires;10:24 AM;En Route;On-time
+JJ 8233;TAM Linhas Aereas;(EZE) Buenos Aires;10:24 AM;En Route;On-time
+G3 1743;Gol;(GIG) Rio De Janeiro;10:40 AM;Scheduled;On-time
+KL 9351;KLM;(GIG) Rio De Janeiro;10:40 AM;Scheduled;On-time
+UA 31;United Airlines;(EWR) Newark;11:14 AM;En Route;Delayed
+NH 7214;ANA;(EWR) Newark;11:14 AM;En Route;Delayed
+UA 861;United Airlines;(IAD) Washington;11:26 AM;En Route;Delayed
+NH 7254;ANA;(IAD) Washington;11:26 AM;En Route;Delayed
+G3 2083;Gol;(FLN) Florianopolis;10:45 AM;En Route;
+AR 7647;Aerolineas Argentinas;(FLN) Florianopolis;10:45 AM;En Route;
+AR 1240;Aerolineas Argentinas;(AEP) Buenos Aires;10:41 AM;En Route;On-time
+O6 6371;Avianca Brazil;(FOR) Fortaleza;10:45 AM;En Route;
+O6 6189;Avianca Brazil;(BSB) Brasilia;10:50 AM;En Route;
+O6 6317;Avianca Brazil;(REC) Recife;10:50 AM;En Route;
+AD 5006;Azul;(POA) Porto Alegre;10:55 AM;Scheduled;On-time
+JJ 3112;TAM Linhas Aereas;(FLN) Florianopolis;11:03 AM;Scheduled;On-time
+CA 7148;Air China;(FLN) Florianopolis;11:03 AM;Scheduled;On-time
+LA 8461;LAN Airlines;(FLN) Florianopolis;11:03 AM;Scheduled;On-time
+G3 2005;Gol;(SDU) Rio De Janeiro;11:10 AM;Scheduled;On-time
+G3 1771;Gol;(BPS) Porto Seguro;11:10 AM;Scheduled;
+AR 7653;Aerolineas Argentinas;(BPS) Porto Seguro;11:10 AM;Scheduled;
+AF 2011;Air France;(BPS) Porto Seguro;11:10 AM;Scheduled;
+KL 9364;KLM;(BPS) Porto Seguro;11:10 AM;Scheduled;
+JJ 3491;TAM Linhas Aereas;(LDB) Londrina;12:00 PM;Scheduled;Delayed
+JJ 3179;TAM Linhas Aereas;(SSA) Salvador;11:00 AM;En Route;On-time
+LA 8089;LAN Airlines;(SSA) Salvador;11:00 AM;En Route;On-time
+UA 979;United Airlines;(IAH) Houston;1:14 PM;En Route;Delayed
+NH 7212;ANA;(IAH) Houston;1:14 PM;En Route;Delayed
+G3 1745;Gol;(GIG) Rio De Janeiro;11:20 AM;Scheduled;On-time
+G3 1983;Gol;(VIX) Vitoria;11:20 AM;Scheduled;On-time
+AA 951;American Airlines;(JFK) New York;11:22 AM;En Route;On-time
+US 951;US Airways;(JFK) New York;11:22 AM;En Route;On-time
+CX 7698;Cathay Pacific;(JFK) New York;11:22 AM;En Route;On-time
+JJ 8405;TAM Linhas Aereas;(JFK) New York;11:22 AM;En Route;On-time
+JL 7200;JAL;(JFK) New York;11:22 AM;En Route;On-time
+G3 7661;Gol;(SCL) Santiago;11:25 AM;Scheduled;
+AA 995;American Airlines;(MIA) Miami;11:15 AM;En Route;On-time
+JJ 8419;TAM Linhas Aereas;(MIA) Miami;11:15 AM;En Route;On-time
+US 995;US Airways;(MIA) Miami;11:15 AM;En Route;On-time
+JJ 3325;TAM Linhas Aereas;(FOR) Fortaleza;11:19 AM;En Route;On-time
+IB 2409;Iberia;(FOR) Fortaleza;11:19 AM;En Route;On-time
+LA 8095;LAN Airlines;(FOR) Fortaleza;11:19 AM;En Route;On-time
+AD 2485;Azul;(PLU) Belo Horizonte;11:30 AM;Scheduled;On-time
+JJ 3790;TAM Linhas Aereas;(JOI) Joinville;11:35 AM;Scheduled;
+LA 5971;LAN Airlines;(JOI) Joinville;11:35 AM;Scheduled;
+AD 5107;Azul;(NVT) Navegantes;11:35 AM;Scheduled;On-time
+UA 845;United Airlines;(ORD) Chicago;11:29 AM;En Route;On-time
+NH 7256;ANA;(ORD) Chicago;11:29 AM;En Route;On-time
+JJ 3578;TAM Linhas Aereas;(BSB) Brasilia;11:45 AM;Scheduled;On-time
+LX 4101;SWISS;(BSB) Brasilia;11:45 AM;Scheduled;On-time
+AM 7811;Aeromexico;(BSB) Brasilia;11:45 AM;Scheduled;On-time
+IB 2401;Iberia;(BSB) Brasilia;11:45 AM;Scheduled;On-time
+LA 8072;LAN Airlines;(BSB) Brasilia;11:45 AM;Scheduled;On-time
+CA 7140;Air China;(BSB) Brasilia;11:45 AM;Scheduled;On-time
+SA 7913;South African Airways;(BSB) Brasilia;11:45 AM;Scheduled;On-time
+O6 9411;Avianca Brazil;(FLN) Florianopolis;11:45 AM;Scheduled;On-time
+AD 5019;Azul;(BSB) Brasilia;11:45 AM;Scheduled;On-time
+JJ 3345;TAM Linhas Aereas;(CNF) Belo Horizonte;11:45 AM;Scheduled;On-time
+CA 7128;Air China;(CNF) Belo Horizonte;11:45 AM;Scheduled;On-time
+LA 8148;LAN Airlines;(CNF) Belo Horizonte;11:45 AM;Scheduled;On-time
+SA 7931;South African Airways;(CNF) Belo Horizonte;11:45 AM;Scheduled;On-time
+G3 1893;Gol;(CGR) Campo Grande;11:50 AM;Scheduled;On-time
+JJ 8029;TAM Linhas Aereas;(SCL) Santiago;12:03 PM;En Route;On-time
+LA 6017;LAN Airlines;(SCL) Santiago;12:03 PM;En Route;On-time
+AC 90;Air Canada;(YYZ) Toronto;11:20 AM;En Route;On-time
